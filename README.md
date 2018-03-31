@@ -12,7 +12,7 @@ Nocturnal is my turn on a Twitch.tv stream overlay that's aimed towards coding s
 
 ## State of Development
 
-<p class="callout warning"> The project is currently in concept phase, all code that's already written is subject to change.<p>
+<p class="callout warning">The project is currently in concept phase, all code that's already written is subject to change.</p>
 
 To use this, please come back at a later time. But leave a star if you are interested.
 
