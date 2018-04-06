@@ -46,6 +46,8 @@ To use this, please come back at a later time. But leave a star if you are inter
   - [ ] Milestone Fetching
     - [ ] Issues finished
     - [ ] Milestone Timeframe
+- [ ] Trello
+  - [ ] Issue Fetching
 - [ ] Spotify
   - [ ] Displaying current playing song
     - [ ] Album art
